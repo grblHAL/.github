@@ -1,4 +1,4 @@
-<img width="80px" src="../media/grblHAL.svg"></img>
+<img width="80px" src="https://github.com/grblHAL/.github/blob/main/media/grblHAL.svg"></img>
 
 ## the ultimate Grbl port:
 
