@@ -1,6 +1,4 @@
-# .github
-
-![3grblHAL](media/grblHAL.svg)
+![3grblHAL](../media/grblHAL.svg)
 
 ## the ultimate Grbl port:
 
