@@ -7,7 +7,7 @@
 * [open](http://svn.io-engineering.com/grblHAL/html/hal_8h.html) architecture supports [3rd party drivers](https://github.com/grblHAL/3rd_party_drivers) and [plugins](https://github.com/grblHAL/plugins), including [user defined](https://github.com/grblHAL/Templates) plugins.
 * [extended GCode support](https://github.com/grblHAL/core#supported-g-codes): [tool changes](https://github.com/grblHAL/core/wiki/Manual,-semi-automatic-and-automatic-tool-change), canned cycles, extra inputs and outputs, optional [parameter and expression](https://github.com/grblHAL/core/wiki/Expressions-and-flow-control) handling, ... 
 * [networking](https://github.com/grblHAL/Plugin_networking/) \(WiFi or ethernet\) and [SD card](https://github.com/grblHAL/Plugin_SD_card/) options available for some controllers. [WebUI](https://github.com/grblHAL/Plugin_WebUI) options. 
-* [Web Builder](https://svn.io-engineering.com:8443) available for the most popular processors, no need to install a toolchain for creating the firmware.
+* [Web Builder](https://webbuilder.grblhal.org/) available for the most popular processors, no need to install a toolchain for creating the firmware.
 * works with all mainstream GCode senders, some may require [compatibility level](https://github.com/grblHAL/core/wiki/Compatibility-level) set to function properly.
 
 [Wiki](https://github.com/grblHAL/core/wiki), general [issues](https://github.com/grblHAL/core/issues), [discussions](https://github.com/grblHAL/core/discussions) and [changelog](https://github.com/grblHAL/core/blob/master/changelog.md) are found in the [core repository](https://github.com/grblHAL/core).
