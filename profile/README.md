@@ -9,5 +9,6 @@
 * [networking](https://github.com/grblHAL/Plugin_networking/) \(WiFi or ethernet\) and [SD card](https://github.com/grblHAL/Plugin_SD_card/) options available for some controllers. [WebUI](https://github.com/grblHAL/Plugin_WebUI) options. 
 * [Web Builder](https://webbuilder.grblhal.org/) available for the most popular processors, no need to install a toolchain for creating the firmware.
 * works with all mainstream GCode senders, some may require [compatibility level](https://github.com/grblHAL/core/wiki/Compatibility-level) set to function properly.
+* NEW: comprehensive documentation is now available at [grblhal.org/docs](https://grblhal.org/docs). It may contain inaccuracies, proofreading is ongoing.
 
 [Wiki](https://github.com/grblHAL/core/wiki), general [issues](https://github.com/grblHAL/core/issues), [discussions](https://github.com/grblHAL/core/discussions) and [changelog](https://github.com/grblHAL/core/blob/master/changelog.md) are found in the [core repository](https://github.com/grblHAL/core).
