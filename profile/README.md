@@ -2,7 +2,7 @@
 
 ## The ultimate [Grbl](https://github.com/gnea/grbl) port:
 
-* available for many [32 bit processors](https://github.com/grblHAL/drivers) and [controllers](https://github.com/grblHAL/Controllers).
+* available for many [32 bit processors](https://github.com/grblHAL/drivers) and [controllers](https://grblhal.org/docs/getting-started/controllers/).
 * hardware abstracted \(HAL\) architecture with processor specific drivers and [shared core](https://github.com/grblHAL/core).
 * [open](http://svn.io-engineering.com/grblHAL/html/hal_8h.html) architecture supports [3rd party drivers](https://github.com/grblHAL/3rd_party_drivers) and [plugins](https://github.com/grblHAL/plugins), including [user defined](https://github.com/grblHAL/Templates) plugins.
 * [extended GCode support](https://github.com/grblHAL/core#supported-g-codes): [tool changes](https://github.com/grblHAL/core/wiki/Manual,-semi-automatic-and-automatic-tool-change), canned cycles, extra inputs and outputs, optional [parameter and expression](https://github.com/grblHAL/core/wiki/Expressions-and-flow-control) handling, ... 
